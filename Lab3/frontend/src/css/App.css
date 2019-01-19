@@ -1,0 +1,283 @@
+
+.form-heading { color:#fff; font-size:23px;}
+.panel h2{ color:#444444; font-size:18px; margin:0 0 8px 0;}
+.panel p { color:#777777; font-size:14px; margin-bottom:30px; line-height:24px;}
+
+.login-form .form-control {
+  background: #f7f7f7 none repeat scroll 0 0;
+  border: 1px solid #d4d4d4;
+  border-radius: 4px;
+  font-size: 14px;
+  height: 50px;
+  line-height: 50px;
+}
+.proppanel{
+  width: 60%;
+}
+.main-div {
+  background: #ffffff none repeat scroll 0 0;
+  border-radius: 2px;
+  margin: 10px auto 30px;
+  max-width: 38%;
+  padding: 50px 70px 70px 71px;
+  border: 2px solid black;
+}
+.pan-header .pan-footer{
+  background: #f7f7f7 none repeat scroll 0 0;
+  border-bottom: 1px solid #d4d4d4;
+  border-radius: 4px;
+  font-size: 14px;
+  height: 50px;
+  line-height: 50px;
+  text-align: center;
+}
+.login-form .form-group {
+  margin-bottom:10px;
+}
+.login-form{ text-align:center;}
+.forgot a {
+  color: #777777;
+  font-size: 14px;
+  text-decoration: underline;
+}
+.login-form  .btn.btn-primary {
+  background: #f0ad4e none repeat scroll 0 0;
+  border-color: #f0ad4e;
+  color: #ffffff;
+  font-size: 14px;
+  width: 100%;
+  height: 50px;
+  line-height: 50px;
+  padding: 0;
+}
+.btn.btn-save {
+  background: #1E88E5 none repeat scroll 0 0;
+  border-color: #1E88E5;
+  color: #FFFFFF;
+  font-size: 14px;
+  width: 50%;
+  height: 50px;
+  line-height: 50px;
+  padding: 0;
+  border-radius: 30px;
+}
+.forgot {
+  text-align: left; margin-bottom:30px;
+}
+.botto-text {
+  color: #ffffff;
+  font-size: 14px;
+  margin: auto;
+}
+.back { text-align: left; margin-top:10px;}
+.back a {color: #444444; font-size: 13px;text-decoration: none;}
+
+
+.logpanel{
+  background-color: #FFFFFF;
+  text-align: center;
+  padding: 5px;
+  border-radius: 10px;
+  margin: 20px;
+}
+.logheader{
+  border-radius: 20px;
+  background-color: #1E88E5;
+  color: #FFFFFF;
+  text-align: center;
+  font-weight: bold;
+  margin: 10px;
+  padding: 10px;
+}
+.logbody{
+  text-align: left;
+  margin: 10px;
+  padding: 10px;
+}
+.logfooter{
+  margin-bottom: 20px;
+}
+.nav-wrapper{
+  background-color: #FFFFFF;
+  color: black;
+}
+.maindiv{
+  background-image: url("../images/HomeAwayBacground.jpg");
+}
+.log-footer{
+  background-color: #f0ad4e;
+  color: #FFFFFF;
+  cursor: pointer;
+  text-align: center;
+  font-weight: bold;
+  margin-left: 5%;
+  margin-right: 5%;
+  margin-bottom: 5px;
+  padding: 10px;
+}
+
+.parentheader{
+  background-color:#1E88E5;
+  padding-left: 10px;
+  margin: 0px;
+}
+
+.parenttab{
+  background-color: #FFFFFF;
+  height: 50px;
+}
+.childtab{
+  text-align: center;
+  height: 50px;
+  padding-top: 13px;
+}
+.childtab:hover{
+  background-color:deepskyblue ;
+  color: #FFFFFF;
+  border-bottom: #1E88E5;
+}
+.profileheader{
+  background-color:#FFFFFF;
+}
+
+.cusdropdown{
+  text-align: center;
+  height: 50px;
+  padding-top: 13px;
+  cursor: pointer;
+  color: #1E88E5;
+}
+.cusdropdown:hover{
+  background-color:deepskyblue ;
+  color: #FFFFFF;
+  border-bottom: #1E88E5;
+}
+.dropdowntab{
+  text-align: center;
+  height: 35px;
+  padding-top: 10px;
+}
+.dropdowntab:hover{
+  background-color:blue;
+  color: #FFFFFF;
+  border-bottom: #1E88E5;
+  text-decoration: none;
+}
+
+.acc-btn-save{
+  background: #1E88E5 none repeat scroll 0 0;
+  border-color: #1E88E5;
+  color: #FFFFFF;
+  font-size: 14px;
+  width: 25%;
+  height: 50px;
+  line-height: 50px;
+  padding: 0;
+  border-radius: 30px;
+}
+
+.prop-pan-head{
+  text-align: center;
+  font-weight: bold;
+  padding: 10px;
+}
+
+.profilepanel{
+  width: 70%;
+  margin: 12px;
+}
+.proppanel{
+  margin: 20px;
+  cursor: pointer;
+}
+.propform{
+  padding: 10px;
+  margin: 10px;
+}
+
+.propertycardheader{
+  background-color: #f0ad4e;
+  color: #FFFFFF;
+  font-weight: bold;
+  padding: 5px;
+  width: 70%;
+  border-radius: 10px;
+}
+.propertycardbody{
+  background-color:#FFFFFF;
+  font-weight: bold;
+  width: 70%;
+  border-radius: 15px;
+  margin-bottom: 5px;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+
+.createnewproperty
+{
+  margin: 10px;
+  padding: 10px;
+  text-align: center;
+  cursor: pointer;
+}
+
+.searchpanel{
+  margin-top: 10%;
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-bottom: 10px;
+  padding: 15px;
+  background-color: #FFFFFF;
+
+}
+.viewproperty{
+  margin-left:10% ;
+  background-color: #FFFFFF;
+  margin-right: 10%;
+  margin-top: 10%;
+  margin-bottom: 15%;
+  padding: 25px;
+  border-radius: 15px;
+}
+
+.subheading{
+  background-color:#1E88E5;
+  color: white;
+  text-align: center;
+  font-weight: bold;
+  padding: 5px;
+  cursor: pointer;
+}
+.viewbody{
+  padding-top:2%;
+  padding-left: 5%;
+  margin-bottom: 5px;
+}
+
+
+.viewprop2{
+  padding-bottom: 50%;
+}
+
+.viewpropertybutton{
+  cursor: pointer;
+  text-align: center;
+  padding: 5%;
+  height: 100%;
+  background-color: #1e88e5;
+  width: 20%;
+  display: inline-block;
+  color: #FFFFFF;
+  border-radius: 15px;
+  height: 100%;
+}
+.image {
+  width: 30%;
+  display: inline-block;
+}
+.description{
+  padding-left: 5%;
+  width: 50%;
+  display: inline-block;
+}
